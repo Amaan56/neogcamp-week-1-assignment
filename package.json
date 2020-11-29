@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Amaan56/neogcamp-week-1-assignment/issues"
   },
-  "homepage": "https://github.com/Amaan56/neogcamp-week-1-assignment#readme"
+  "homepage": "https://github.com/Amaan56/neogcamp-week-1-assignment#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
 }
