@@ -40,10 +40,10 @@ var questionSet = [
     options: [
       { option: 'a', value: 'Fly bot' },
       { option: 'b', value: 'Red booster' },
-      { option: 'c', value: 'Falcon Arrow' },
+      { option: 'c', value: 'Millenium Falcon' },
       { option: 'd', value: 'Apollo 9' },
     ],
-    answer: { option: 'c', value: 'Falcon Arrow' },
+    answer: { option: 'c', value: 'Millenium Falcon' },
   },
 ];
 
